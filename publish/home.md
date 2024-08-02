@@ -12,3 +12,5 @@ updates GOTO THE RIGHT
 foots
 
 icons
+
+title
