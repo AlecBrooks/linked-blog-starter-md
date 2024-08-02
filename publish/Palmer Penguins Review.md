@@ -4,9 +4,9 @@ excerpt: "A Predictive Model Approach"
 date: "2024-8-1"
 author:
   name: "Alec Brooks"
-  url: https://media.licdn.com/dms/image/D5603AQG0j7-Cwz80BA/profile-displayphoto-shrink_800_800/0/1721083708589?e=1727913600&v=beta&t=hRKFU6mFBKX4S_RwKkbd0H1cx99B3K3xvpffLoFbd4I
+  url: public/assets/blog/authors/Alec.jpeg
 ogImage:
-  url: https://allisonhorst.github.io/palmerpenguins/reference/figures/palmerpenguins.png
+  url: public/assets/blog/authors/Alec.jpeg
 ---
 # Palmer Penguins Review: a Predictive Model Approach
 
