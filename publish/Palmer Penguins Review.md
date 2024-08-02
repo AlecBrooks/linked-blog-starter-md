@@ -2,7 +2,7 @@
 title: "Palmer Penguins Review"
 excerpt: "A Predictive Model Approach"
 date: 2024-8-1
-author:
+author: Alec Brooks
 name: Alec Brooks
 ---
 # Palmer Penguins Review: a Predictive Model Approach
