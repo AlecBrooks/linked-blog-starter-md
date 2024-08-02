@@ -7,4 +7,4 @@ This is text for my blog. here is a link too. [[Post 1]]
 
 tada1
 
-update
+updates
