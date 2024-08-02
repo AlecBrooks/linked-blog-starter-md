@@ -10,3 +10,5 @@ tada1
 updates GOTO THE RIGHT
 
 foots
+
+icons
