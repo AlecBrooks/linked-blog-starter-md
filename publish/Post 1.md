@@ -4,9 +4,5 @@ excerpt: "This is my first blog post"
 ---
 
 This is  post
-<<<<<<< HEAD
 
-did it work?
-=======
->>>>>>> origin/main
-
+hello
