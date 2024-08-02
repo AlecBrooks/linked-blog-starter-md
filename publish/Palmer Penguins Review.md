@@ -8,7 +8,6 @@ author:
 ogImage:
     url: "https://blog.abrooks.dev/md_assets/attachments/Pasted%20image%2020240802124444.png"
 ---
-
 # Palmer Penguins Review: a Predictive Model Approach
 
 ![[Pasted image 20240802124444.png]]
