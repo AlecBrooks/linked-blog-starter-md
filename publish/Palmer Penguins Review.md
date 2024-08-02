@@ -1,7 +1,7 @@
 ---
 title: "Palmer Penguins Review"
 excerpt: "A Predictive Model Approach"
-author: Alec
+author: "Alec"
 date: 8/1/2024
 ---
 # Palmer Penguins Review: a Predictive Model Approach
