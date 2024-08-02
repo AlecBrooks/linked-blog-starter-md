@@ -3,10 +3,10 @@ title: "Palmer Penguins Review"
 excerpt: "A Predictive Model Approach"
 date: "2024-8-1"
 author:
-  name: "Matthew Wong"
-  url: "URL to a pic for the author"
+  name: "Alec Brooks"
+  url: "https://media.licdn.com/dms/image/D5603AQG0j7-Cwz80BA/profile-displayphoto-shrink_800_800/0/1721083708589?e=1727913600&v=beta&t=hRKFU6mFBKX4S_RwKkbd0H1cx99B3K3xvpffLoFbd4I"
 ogImage:
-  url: "URL to an image to set the og Image for SEO"
+  url: "https://allisonhorst.github.io/palmerpenguins/reference/figures/palmerpenguins.png"
 ---
 # Palmer Penguins Review: a Predictive Model Approach
 
