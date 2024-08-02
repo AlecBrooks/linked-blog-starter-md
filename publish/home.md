@@ -1,5 +1,5 @@
 ---
-title: "My Blog"
+title: "My Mind"
 excerpt: "This is my blog"
 ---
 
