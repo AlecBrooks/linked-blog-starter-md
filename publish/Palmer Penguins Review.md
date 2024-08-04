@@ -46,6 +46,6 @@ If we plot Flipper Length as our independent variable and Body Mass as our depen
 
 ![](file:///C:/Users/ALECDE~1.001/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg)
 
-![](file:///C:/Users/ALECDE~1.001/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg)
+![](file:///C:/Users/ALECDE~1.001/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg))
 # Conclusion
 Further, The Standard Error is 393.34. Considering that the range of the dependent variable (Body Mass) is 6300, this Standard Error is relatively low, representing about 6.24% of the Body Mass range. This indicates that the model is reasonably accurate, making Flipper Length an acceptable predictor of Body Mass. This project serves as a good case study for the importance of using methods such as plotting and analyzing residuals to verify findings.
