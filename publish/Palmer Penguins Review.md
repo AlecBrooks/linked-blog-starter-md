@@ -44,8 +44,7 @@ If we take a look at each quartile of our measurement variables it reveals a sig
 ## Analysis
 If we plot Flipper Length as our independent variable and Body Mass as our dependent variable, we can see a consistent pattern. The R² score of 0.76 indicates that approximately 76% of the variance in Body Mass can be explained by Flipper Length. After we plot the residuals, we find a relatively low Mean Residual of 0.06.
 
-![](file:///C:/Users/ALECDE~1.001/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg)
-
-![](file:///C:/Users/ALECDE~1.001/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg))
+![[Pasted image 20240804064415.png]]
+![[Pasted image 20240804064434.png]]
 # Conclusion
 Further, The Standard Error is 393.34. Considering that the range of the dependent variable (Body Mass) is 6300, this Standard Error is relatively low, representing about 6.24% of the Body Mass range. This indicates that the model is reasonably accurate, making Flipper Length an acceptable predictor of Body Mass. This project serves as a good case study for the importance of using methods such as plotting and analyzing residuals to verify findings.
